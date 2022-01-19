@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Redux/static/css/main.17ee8a36.css",
+    "main.js": "/Redux/static/js/main.5b96b950.js",
+    "static/media/food-bg.jpg": "/Redux/static/media/food-bg.fd26761e91858028ef58.jpg",
+    "static/media/shopping-cart-solid.svg": "/Redux/static/media/shopping-cart-solid.f0d47d21b1dd7b835cb6abacb57c3d49.svg",
+    "index.html": "/Redux/index.html",
+    "main.17ee8a36.css.map": "/Redux/static/css/main.17ee8a36.css.map",
+    "main.5b96b950.js.map": "/Redux/static/js/main.5b96b950.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17ee8a36.css",
+    "static/js/main.5b96b950.js"
+  ]
+}
