@@ -18,7 +18,7 @@ ReactDOM.render(
         <Provider store={store}>
             <ErrorBoudry>
                 <RestoServiceContext.Provider value={restoService}>
-                    <Router>
+                    <Router basename='Redux'>
                         <App/>
                     </Router>
                 </RestoServiceContext.Provider>
